@@ -12,3 +12,5 @@
   객체속성의 checked를 사용하면 불 자료형 true, false가 반환된다.
 + css로 어떻게 가운데로 정렬시키는가? 
   margin:0 auto; 를 쓰자 ex) body{ margin: 0 auto; } 
+  
+주소 : https://myvoltron.github.io/miniProject_todoList/todoList.html
